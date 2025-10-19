@@ -100,11 +100,10 @@ zoom: 0.95
 * Switch your mobile phone to a silent regime and put it in the bag
   * In case you need to share your mobile network, switch it on
 * Switch off VPN if needed at your device
-* Quit from social nets, roll up all unnecessary windows for the exam
-* Open Smart LMS Deep Learning course page
-* In **exam questions** there is one or several correct answers, pay attention to all words and mathematical symbols in questions, especially strict or non-strict inequality. All questions have the same weight with 1 point.
+* Open in Smart LMS at Machine Learning 1 (2025/2026 modules: 1,2) (Болдырев А.С.) the midterm test at the top of the page and launch Safe Exam Browser
+* In **exam questions** there is one or several correct answers, pay attention to all words and mathematical symbols in questions, especially strict or non-strict inequality. All questions have the same weight of 1 point
 * You can navigate freely through the test solving the tasks in any order
-* The first warning if a student uses unallowed materials, after the second warning the removal and 0 for the exam
+* The first warning if a student uses smartphone or other device or printed meterials dureing the test, after the second warning the removal and 0 for the exam
 * The results will be announced later after the exam
 
 
